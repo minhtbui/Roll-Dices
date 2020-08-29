@@ -1,0 +1,7 @@
+.dice {
+   font-size: 10em;
+   padding: 0.25em;
+   color: rgb(177, 78, 78);
+   --animation: wooble;
+   --animation-duration: 1000ms;
+}
